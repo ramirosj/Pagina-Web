@@ -9,16 +9,16 @@ body    {
 .contenedor1 {
     display: flex;
     justify-content: space-between;
-    margin: 0px 200px 100px;
     align-items: center;
+    margin: 10px 0px 100px;
     
 }
 
 .logo   {
     font-size: 24px;
     color: #f9faf8;
-    width: 200px;
-    margin-right: 0px;
+    /*width: 200px;*/
+    margin: 0px 200px;
     font-weight: bolder;
 }
 
@@ -29,6 +29,7 @@ body    {
     margin-left: 0px;
     color: #E5E7EB;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 
 li {
